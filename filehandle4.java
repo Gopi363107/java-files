@@ -1,3 +1,1 @@
-public class filehandle4 {
-    
-}
+File in java might be tricky it is hard to handle these files so you first study all basics..
