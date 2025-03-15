@@ -7,7 +7,7 @@ public class pattern16 {
 
     public static void pattern(int n){
         for (int i = 0; i < 2*n-1; i++) {
-            if(i<= 6){
+            if(i<= n){
                 for (int j = 0; j < i; j++) {
                     System.out.print("*");
                 }
